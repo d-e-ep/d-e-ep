@@ -3,7 +3,7 @@ from tkinter.ttk import *
 from time import strftime
 
 root=Tk()
-root.title("GHADI")
+root.title("CLOCK")
 
 def time():
         string = strftime("%I:%M:%S %p")
